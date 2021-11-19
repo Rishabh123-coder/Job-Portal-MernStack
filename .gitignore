@@ -100,5 +100,26 @@ dist
 # DynamoDB Local files
 .dynamodb/
 
+node_modules
+
+config.env 
+
 # TernJS port file
 .tern-port
+© 2021 GitHub, Inc.
+Terms
+Privacy
+Security
+Status
+Help
+Contact GitHub
+Pricing
+API
+Training
+Blog
+About
+Octotree
+ Login with GitHub
+
+backend/public/profile/*
+backend/public/resume/*
